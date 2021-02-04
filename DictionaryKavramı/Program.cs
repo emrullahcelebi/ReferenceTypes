@@ -12,8 +12,8 @@ namespace DictionaryKavramı
             okulNumarasıAdı.Add("Ali",123);
             okulNumarasıAdı.Add("Emrah", 456);
             okulNumarasıAdı.Add("Cemil", 789);
-            okulNumarasıAdı.Add("Tahir", 102);
-            okulNumarasıAdı.Add("Adnan", 216);
+            okulNumarasıAdı.Add("Tehir", 102);
+            okulNumarasıAdı.Add("Adnen", 216);
 
             foreach (var veriler in okulNumarasıAdı)
             {

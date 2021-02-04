@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OOP3
 {
-    class BasvuruManager
+    class BasvuruManager 
     {
         public void BasvuruYap(IKrediManager krediManager)
         {
