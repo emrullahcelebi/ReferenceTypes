@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{4AFFDAA7-B7E2-49C6-912C-76BECEA8F44F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{4AFFDAA7-B7E2-49C6-912C-76BECEA8F44F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{95325960-8ABE-44B4-9EAA-ECB3F9D758E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructors\Constructors.csproj", "{95325960-8ABE-44B4-9EAA-ECB3F9D758E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics2", "Generics2\Generics2.csproj", "{AC558B56-216F-4EE6-8A2D-4684BEDF15DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics2", "Generics2\Generics2.csproj", "{AC558B56-216F-4EE6-8A2D-4684BEDF15DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryKavramı", "DictionaryKavramı\DictionaryKavramı.csproj", "{74EB2BB9-2C03-4818-BC70-4D91032E1EA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryKavramı", "DictionaryKavramı\DictionaryKavramı.csproj", "{74EB2BB9-2C03-4818-BC70-4D91032E1EA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{BEF98722-5943-4C48-B57F-B8CF3FE2997F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{BEF98722-5943-4C48-B57F-B8CF3FE2997F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{7E6AB451-A678-4456-80CA-6DA8F63E00F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{7E6AB451-A678-4456-80CA-6DA8F63E00F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{D249BD3D-02F2-4EBC-A663-9324933DC261}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{7E6AB451-A678-4456-80CA-6DA8F63E00F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E6AB451-A678-4456-80CA-6DA8F63E00F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E6AB451-A678-4456-80CA-6DA8F63E00F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D249BD3D-02F2-4EBC-A663-9324933DC261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D249BD3D-02F2-4EBC-A663-9324933DC261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D249BD3D-02F2-4EBC-A663-9324933DC261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D249BD3D-02F2-4EBC-A663-9324933DC261}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
